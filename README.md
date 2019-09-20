@@ -1,5 +1,6 @@
 # boomtown
 Take Home Assignment from BoomTown
+
 A live version of the app can be view at: https://ermarie.github.io/boomtown/
 
 # The MIT License (MIT)
